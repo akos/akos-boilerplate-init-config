@@ -43,10 +43,11 @@
     "url": "git+https://github.com/akos/akos-boilerplate-init-config.git"
   },
   "keywords": [
-    "akos-init",
-    "boilerplate",
+    "akos",
     "egg",
-    "egg-init"
+    "akos-init",
+    "egg-init",
+    "boilerplate"
   ],
   "engines": {
     "node": ">=4.0.0"

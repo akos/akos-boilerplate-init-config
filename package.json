@@ -1,0 +1,57 @@
+{
+  "name": "egg-init-config",
+  "version": "1.4.0",
+  "description": "egg init boilerplate config",
+  "files": [
+    "index.js"
+  ],
+  "config": {
+    "boilerplate": {
+      "simple": {
+        "package": "akos-egg-boilerplate-simple",
+        "description": "Simple akos-boilerplate-egg app boilerplate"
+      },
+      "microservice": {
+        "package": "akos-egg-boilerplate-microservice",
+        "description": "Microservice app boilerplate based on egg"
+      },
+      "sequelize": {
+        "package": "akos-egg-boilerplate-sequelize",
+        "description": "egg app with sequelize"
+      },
+      "ts": {
+        "package": "egg-boilerplate-ts",
+        "description": "Simple egg && typescript app boilerplate"
+      },
+      "empty": {
+        "package": "egg-boilerplate-empty",
+        "description": "Empty egg app boilerplate"
+      },
+      "plugin": {
+        "package": "egg-boilerplate-plugin",
+        "description": "egg plugin boilerplate"
+      },
+      "framework": {
+        "package": "egg-boilerplate-framework",
+        "description": "egg framework boilerplate"
+      }
+    }
+  },
+  "homepage": "https://github.com/eggjs/egg-init-config",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/eggjs/egg-init-config.git"
+  },
+  "bugs": {
+    "email": "fengmk2@gmail.com",
+    "url": "https://github.com/eggjs/egg/issues"
+  },
+  "keywords": [
+    "egg",
+    "egg-init"
+  ],
+  "engines": {
+    "node": ">=4.0.0"
+  },
+  "author": "fengmk2 <fengmk2@gmail.com> (http://fengmk2.com)"
+}

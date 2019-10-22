@@ -1,37 +1,41 @@
 {
   "name": "akos-boilerplate-init-config",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "akos (base on egg) init boilerplate config",
   "files": [
     "index.js"
   ],
   "config": {
     "boilerplate": {
-      "simple": {
+      "akos_simple": {
         "package": "akos-egg-boilerplate-simple",
         "description": "Simple akos-boilerplate-egg app boilerplate"
       },
-      "microservice": {
+      "akos_microservice": {
         "package": "akos-egg-boilerplate-microservice",
-        "description": "Microservice app boilerplate based on egg"
+        "description": "Microservice akos app boilerplate based on egg"
       },
-      "sequelize": {
+      "akos_sequelize": {
         "package": "akos-egg-boilerplate-sequelize",
-        "description": "egg app with sequelize"
+        "description": "akos egg app with sequelize"
       },
-      "ts": {
+      "akos_framework": {
+        "package": "akos-boilerplate-framework",
+        "description": "akos framework boilerplate"
+      },
+      "egg_ts": {
         "package": "egg-boilerplate-ts",
         "description": "Simple egg && typescript app boilerplate"
       },
-      "empty": {
+      "egg_empty": {
         "package": "egg-boilerplate-empty",
         "description": "Empty egg app boilerplate"
       },
-      "plugin": {
+      "egg_plugin": {
         "package": "egg-boilerplate-plugin",
         "description": "egg plugin boilerplate"
       },
-      "framework": {
+      "egg_framework": {
         "package": "egg-boilerplate-framework",
         "description": "egg framework boilerplate"
       }

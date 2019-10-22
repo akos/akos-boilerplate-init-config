@@ -1,6 +1,6 @@
 {
   "name": "akos-boilerplate-init-config",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "akos (base on egg) init boilerplate config",
   "files": [
     "index.js"
@@ -50,7 +50,7 @@
   "engines": {
     "node": ">=4.0.0"
   },
-  "author": "fengmk2 <fengmk2@gmail.com> (http://fengmk2.com)",
+  "author": "AlpsBlue(lgfshr@163.com)",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

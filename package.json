@@ -1,7 +1,7 @@
 {
   "name": "akos-boilerplate-init-config",
-  "version": "1.4.0",
-  "description": "egg init boilerplate config",
+  "version": "0.0.2",
+  "description": "akos (base on egg) init boilerplate config",
   "files": [
     "index.js"
   ],
@@ -37,21 +37,23 @@
       }
     }
   },
-  "homepage": "https://github.com/eggjs/egg-init-config",
+  "homepage": "https://github.com/akos/akos-boilerplate-init-config",
   "repository": {
     "type": "git",
-    "url": "https://github.com/eggjs/egg-init-config.git"
-  },
-  "bugs": {
-    "email": "fengmk2@gmail.com",
-    "url": "https://github.com/eggjs/egg/issues"
+    "url": "git+https://github.com/akos/akos-boilerplate-init-config.git"
   },
   "keywords": [
+    "akos-init",
     "egg",
     "egg-init"
   ],
   "engines": {
     "node": ">=4.0.0"
   },
-  "author": "fengmk2 <fengmk2@gmail.com> (http://fengmk2.com)"
+  "author": "fengmk2 <fengmk2@gmail.com> (http://fengmk2.com)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "license": "ISC"
 }

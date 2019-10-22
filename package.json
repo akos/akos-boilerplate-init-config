@@ -50,7 +50,7 @@
     "boilerplate"
   ],
   "engines": {
-    "node": ">=4.0.0"
+    "node": ">=8.0.0"
   },
   "author": "AlpsBlue(lgfshr@163.com)",
   "main": "index.js",

@@ -23,11 +23,10 @@
         "package": "akos-boilerplate-framework",
         "description": "akos framework boilerplate"
       },
-      "egg_boilerplate": {
-        "simple": {
-          "package": "egg-boilerplate-simple",
-          "description": "Simple egg app boilerplate"
-        },
+      "egg_simple": {
+        "package": "egg-boilerplate-simple",
+        "description": "Simple egg app boilerplate"
+      },
       "egg_ts": {
         "package": "egg-boilerplate-ts",
         "description": "Simple egg && typescript app boilerplate"

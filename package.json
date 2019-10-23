@@ -1,6 +1,6 @@
 {
   "name": "akos-boilerplate-init-config",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "akos (base on egg) init boilerplate config",
   "files": [
     "index.js"
@@ -23,6 +23,11 @@
         "package": "akos-boilerplate-framework",
         "description": "akos framework boilerplate"
       },
+      "egg_boilerplate": {
+        "simple": {
+          "package": "egg-boilerplate-simple",
+          "description": "Simple egg app boilerplate"
+        },
       "egg_ts": {
         "package": "egg-boilerplate-ts",
         "description": "Simple egg && typescript app boilerplate"
@@ -56,7 +61,7 @@
   "engines": {
     "node": ">=8.0.0"
   },
-  "author": "AlpsBlue(lgfshr@163.com)",
+  "author": "Alps_Lin(lgfshr@163.com)",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

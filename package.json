@@ -7,39 +7,39 @@
   ],
   "config": {
     "boilerplate": {
-      "akos_simple": {
+      "akos-simple": {
         "package": "akos-egg-boilerplate-simple",
         "description": "Simple akos-boilerplate-egg app boilerplate"
       },
-      "akos_microservice": {
+      "akos-microservice": {
         "package": "akos-egg-boilerplate-microservice",
         "description": "Microservice akos app boilerplate based on egg"
       },
-      "akos_sequelize": {
+      "akos-sequelize": {
         "package": "akos-egg-boilerplate-sequelize",
         "description": "akos egg app with sequelize"
       },
-      "akos_framework": {
+      "akos-framework": {
         "package": "akos-boilerplate-framework",
         "description": "akos framework boilerplate"
       },
-      "egg_simple": {
+      "egg-simple": {
         "package": "egg-boilerplate-simple",
         "description": "Simple egg app boilerplate"
       },
-      "egg_ts": {
+      "egg-ts": {
         "package": "egg-boilerplate-ts",
         "description": "Simple egg && typescript app boilerplate"
       },
-      "egg_empty": {
+      "egg-empty": {
         "package": "egg-boilerplate-empty",
         "description": "Empty egg app boilerplate"
       },
-      "egg_plugin": {
+      "egg-plugin": {
         "package": "egg-boilerplate-plugin",
         "description": "egg plugin boilerplate"
       },
-      "egg_framework": {
+      "egg-framework": {
         "package": "egg-boilerplate-framework",
         "description": "egg framework boilerplate"
       }

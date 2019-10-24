@@ -1,6 +1,6 @@
 {
   "name": "akos-boilerplate-init-config",
-  "version": "0.0.5",
+  "version": "0.0.7",
   "description": "akos (base on egg) init boilerplate config",
   "files": [
     "index.js"
@@ -26,6 +26,10 @@
       "egg-simple": {
         "package": "egg-boilerplate-simple",
         "description": "Simple egg app boilerplate"
+      },
+      "egg-microservice":{
+        "package": "egg-boilerplate-microservice",
+        "description": "Microservice app boilerplate based on egg"
       },
       "egg-ts": {
         "package": "egg-boilerplate-ts",

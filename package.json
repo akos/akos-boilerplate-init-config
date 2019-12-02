@@ -1,12 +1,16 @@
 {
   "name": "akos-boilerplate-init-config",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "description": "akos (base on egg) init boilerplate config",
   "files": [
     "index.js"
   ],
   "config": {
     "boilerplate": {
+      "akos-fullstack": {
+        "package": "akos-fullstack-boilerplate",
+        "description": "A fullstack boilerplate for akos-egg quickstart"
+      },
       "akos-simple": {
         "package": "akos-egg-boilerplate-simple",
         "description": "Simple akos-boilerplate-egg app boilerplate"
